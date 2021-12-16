@@ -1,0 +1,12 @@
+*.class
+*.log
+target/
+deploy/
+src/test/sample/
+spark-warehouse/
+.idea/
+*.iml
+src/test/output/
+dependency-reduced-pom.xml
+.DS_Store
+src/samples/
